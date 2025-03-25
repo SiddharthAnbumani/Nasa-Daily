@@ -43,7 +43,7 @@ export default function App() {
   }
   return (
 
-    <div className="flex flex-col items-center w-full h-screen bg-black">
+    <div className="flex flex-col items-center w-full  bg-black">
       <div className="w-[80%] flex flex-col items-center p-10 bg-blue-500/40 m-10 rounded-4xl">
         <div className="flex justify-between items-center">
               <img src="nasa.svg" alt="" className='w-30' />
